@@ -1,4 +1,4 @@
-package org.launchcode.techjobs.oo.test;
+package org.launchcode.techjobs.oo.Test;
 
 import org.junit.runner.RunWith;
 import org.junit.runners.JUnit4;
