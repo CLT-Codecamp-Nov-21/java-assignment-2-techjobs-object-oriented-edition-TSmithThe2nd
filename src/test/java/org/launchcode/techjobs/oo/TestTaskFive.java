@@ -4,7 +4,7 @@ import mockit.Expectations;
 import mockit.Mocked;
 import org.junit.Assert;
 import org.junit.Test;
-import org.launchcode.techjobs.oo.Test.JobTest;
+import org.launchcode.techjobs.oo.test.JobTest;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
