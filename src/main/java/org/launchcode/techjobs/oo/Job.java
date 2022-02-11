@@ -82,7 +82,7 @@ public class Job<employer> {
                 "Position Type: " + positionTag + "\n"+
                 "Core Competency: " + coreCompTag + "\n";
 
-        if(nameTag==noData&& employerTag==noData&& locationTag==noData&& positionTag==noData
+        if(employerTag==noData&& locationTag==noData&& positionTag==noData
         && coreCompTag==noData){
             jobReport="OOPS! This job does not seem to exist.";
         }
